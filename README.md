@@ -27,7 +27,7 @@ To calculate the average price per square foot for these homes, you will need to
 - 4. To start the server, open the command line (in Windows press Win+R then type "cmd", in OS X search for "terminal" in Spotlight). Go to the directory where the Selenium Standalone Server file is downloaded and run "java -jar selenium-server-standalone-3.0.1.jar".
 
 
-If you are having problems getting the Selenium Standalone Server working, you can find more [information here](https://cran.r-project.org/web/packages/RSelenium/vignettes/RSelenium-basics.html). You are also welcome to email me with questions. However, this project is not meant to be an exercise in setting up servers, so if you are finding it overwhelming to set up the standalone server, you should just use [Sauce Labs](https://saucelabs.com/), as we did in class.
+If you are having problems getting the Selenium Standalone Server working, you can find more [information here](https://cran.r-project.org/web/packages/RSelenium/vignettes/RSelenium-basics.html). You are also welcome to email me with questions. However, this project is not meant to be an exercise in setting up servers, so if you are finding it overwhelming to set up the standalone server, you should just use [Sauce Labs](https://saucelabs.com/), as we did in class. You can sign up for a [free Sauce Labs trial account here](https://saucelabs.com/signup/trial).
 
 **Office Hours:**
 Office hours are on Monday, 1pm to 5pm. Email me at galkamaxd at gmail to set schedule a time to discuss the project. You are also welcome to email me with questions at any time.
