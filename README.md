@@ -30,4 +30,4 @@ To calculate the average price per square foot for these homes, you will need to
 If you are having problems getting the Selenium Standalone Server working, you can find more [information here](https://cran.r-project.org/web/packages/RSelenium/vignettes/RSelenium-basics.html). You are also welcome to email me with questions. However, this project is not meant to be an exercise in setting up servers, so if you are finding it overwhelming to set up the standalone server, you should just use [Sauce Labs](https://saucelabs.com/), as we did in class.
 
 **Office Hours:**
-Office hours are on Monday, 1pm to 4pm. Email me at galkamaxd at gmail to set schedule a time to discuss the project. You are also welcome to email me with questions at any time.
+Office hours are on Monday, 1pm to 5pm. Email me at galkamaxd at gmail to set schedule a time to discuss the project. You are also welcome to email me with questions at any time.
